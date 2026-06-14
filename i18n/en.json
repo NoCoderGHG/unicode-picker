@@ -4,9 +4,7 @@
   "lang_en": "English",
   "lang_system": "System language",
   "restart_hint": "Please restart.",
-
   "search_placeholder": "Search by character or name...",
-
   "tab_recent": "Recently used",
   "tab_currency": "Currency",
   "tab_legal": "Copyright & Legal",
@@ -19,15 +17,14 @@
   "tab_latin_extended": "Latin (extended)",
   "tab_symbols": "Symbols",
   "tab_box_drawing": "Box drawing & blocks",
-
   "no_recent": "No characters used yet.",
   "status_copied": "{char} copied",
-
   "notify_title": "Unicode Picker",
   "notify_copied": "{char} copied to clipboard",
-
   "tray_open": "Open Picker",
   "tray_recent_header": "Recently used",
   "tray_no_recent": "(none)",
-  "tray_quit": "Quit"
+  "tray_quit": "Quit",
+  "tooltip_about": "About Unicode Picker",
+  "about_comments": "Copy special characters to the clipboard with a click.\n\nPart of the GTK3 Toolbox (NoCoderGHG)."
 }

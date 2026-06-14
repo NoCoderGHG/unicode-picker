@@ -4,9 +4,7 @@
   "lang_en": "Englisch",
   "lang_system": "Systemsprache",
   "restart_hint": "Bitte neu starten.",
-
   "search_placeholder": "Suche nach Zeichen oder Name...",
-
   "tab_recent": "Zuletzt verwendet",
   "tab_currency": "Währungen",
   "tab_legal": "Copyright & Recht",
@@ -19,15 +17,14 @@
   "tab_latin_extended": "Lateinisch (erweitert)",
   "tab_symbols": "Symbole",
   "tab_box_drawing": "Rahmen & Blöcke",
-
   "no_recent": "Noch keine Zeichen verwendet.",
   "status_copied": "{char} kopiert",
-
   "notify_title": "Unicode Picker",
   "notify_copied": "{char} in die Zwischenablage kopiert",
-
   "tray_open": "Picker öffnen",
   "tray_recent_header": "Zuletzt verwendet",
   "tray_no_recent": "(keine)",
-  "tray_quit": "Beenden"
+  "tray_quit": "Beenden",
+  "tooltip_about": "Über Unicode Picker",
+  "about_comments": "Sonderzeichen per Klick in die Zwischenablage kopieren.\n\nTeil der GTK3-Toolbox (NoCoderGHG)."
 }
