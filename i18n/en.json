@@ -1,0 +1,33 @@
+{
+  "app_title": "Unicode Picker",
+  "lang_de": "German",
+  "lang_en": "English",
+  "lang_system": "System language",
+  "restart_hint": "Please restart.",
+
+  "search_placeholder": "Search by character or name...",
+
+  "tab_recent": "Recently used",
+  "tab_currency": "Currency",
+  "tab_legal": "Copyright & Legal",
+  "tab_typography": "Typography",
+  "tab_math": "Math",
+  "tab_arrows": "Arrows",
+  "tab_lookalikes": "Look-alikes",
+  "tab_whitespace": "Whitespace & Invisible",
+  "tab_greek": "Greek",
+  "tab_latin_extended": "Latin (extended)",
+  "tab_symbols": "Symbols",
+  "tab_box_drawing": "Box drawing & blocks",
+
+  "no_recent": "No characters used yet.",
+  "status_copied": "{char} copied",
+
+  "notify_title": "Unicode Picker",
+  "notify_copied": "{char} copied to clipboard",
+
+  "tray_open": "Open Picker",
+  "tray_recent_header": "Recently used",
+  "tray_no_recent": "(none)",
+  "tray_quit": "Quit"
+}

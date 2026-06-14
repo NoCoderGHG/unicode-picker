@@ -1,0 +1,33 @@
+{
+  "app_title": "Unicode Picker",
+  "lang_de": "Deutsch",
+  "lang_en": "Englisch",
+  "lang_system": "Systemsprache",
+  "restart_hint": "Bitte neu starten.",
+
+  "search_placeholder": "Suche nach Zeichen oder Name...",
+
+  "tab_recent": "Zuletzt verwendet",
+  "tab_currency": "Währungen",
+  "tab_legal": "Copyright & Recht",
+  "tab_typography": "Typografie",
+  "tab_math": "Mathematik",
+  "tab_arrows": "Pfeile",
+  "tab_lookalikes": "Ähnliche Zeichen",
+  "tab_whitespace": "Leerzeichen & Unsichtbar",
+  "tab_greek": "Griechisch",
+  "tab_latin_extended": "Lateinisch (erweitert)",
+  "tab_symbols": "Symbole",
+  "tab_box_drawing": "Rahmen & Blöcke",
+
+  "no_recent": "Noch keine Zeichen verwendet.",
+  "status_copied": "{char} kopiert",
+
+  "notify_title": "Unicode Picker",
+  "notify_copied": "{char} in die Zwischenablage kopiert",
+
+  "tray_open": "Picker öffnen",
+  "tray_recent_header": "Zuletzt verwendet",
+  "tray_no_recent": "(keine)",
+  "tray_quit": "Beenden"
+}
